@@ -1,4 +1,5 @@
 // Abstract class representing a shape
+//In Java, abstraction is a fundamental concept in object-oriented programming (OOP) that allows developers to define abstract classes and interfaces. Abstraction in Java involves hiding the implementation details of classes and only showing the necessary features or functionalities to the users of those classes.
 abstract class Shape {
     // Abstract method to calculate area
     public abstract double calculateArea();
